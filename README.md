@@ -1,5 +1,5 @@
 # Emmanuel Tabares Ortiz
-Medellín, Colombia | +57 321 829 8707 | [LinkedIn](https://www.linkedin.com/in/emmatabareso/) | [GitHub](https://github.com/ST-Emmanuel00) | [Docker Hub](https://hub.docker.com/u/stemmanuel) | emmanuel.tabares.or@gmail.com
+Medellín, Colombia | +57 321 829 8707 | [LinkedIn](https://www.linkedin.com/in/emmatabareso/) | [GitHub](https://github.com/emmanuel-tabares-ortiz-tech) | [Docker Hub](https://hub.docker.com/u/stemmanuel) | emmanuel.tabares.or@gmail.com
 
 Full Stack Developer with 2+ years of experience in Node.js, React, PHP, and serverless architectures on AWS and GCP. Focused on DevOps: CI/CD pipelines with GitHub Actions, infrastructure as code (Serverless Framework, Terraform), and cloud service deployment. Currently pursuing cloud certification. English B2 (in progress) · Available for hybrid or remote work.
 
@@ -42,8 +42,8 @@ Full Stack Developer with 2+ years of experience in Node.js, React, PHP, and ser
 
 ### Independent Projects
 
-- **[payment-checkout](https://github.com/ST-Emmanuel00/payment-checkout)** · [Demo](https://ui-bay.vercel.app/) — SPA with card tokenization and Wompi integration; API on AWS Lambda with hexagonal architecture (React 18, NestJS, PostgreSQL, Serverless Framework).
-- **[waste-management](https://github.com/ST-Emmanuel00)** — Waste management platform with role-based access, collection scheduling, and visual reports (Next.js, FastAPI, PostgreSQL, Docker).
+- **[payment-checkout](https://github.com/emmanuel-tabares-ortiz-tech/payment-checkout)** · [Demo](https://ui-bay.vercel.app/) — SPA with card tokenization and Wompi integration; API on AWS Lambda with hexagonal architecture (React 18, NestJS, PostgreSQL, Serverless Framework).
+- **[waste-management](https://github.com/emmanuel-tabares-ortiz-tech)** — Waste management platform with role-based access, collection scheduling, and visual reports (Next.js, FastAPI, PostgreSQL, Docker).
 
 ---
 
