@@ -1,21 +1,21 @@
 # Emmanuel Tabares Ortiz
 Medellín, Colombia | +57 321 829 8707 | [LinkedIn](https://www.linkedin.com/in/emmatabareso/) | [GitHub](https://github.com/ST-Emmanuel00) | [Docker Hub](https://hub.docker.com/u/stemmanuel) | emmanuel.tabares.or@gmail.com
 
-Desarrollador Full Stack con +2 años de experiencia en Node.js, React, PHP y arquitecturas serverless (AWS Lambda, Serverless Framework). Especializado en migraciones de sistemas legacy, CI/CD con GitHub Actions e integración de IA generativa en flujos de desarrollo. Inglés B2 (en formación) · Disponible para trabajo híbrido o remoto.
+Desarrollador Full Stack con +2 años de experiencia en Node.js, React, PHP y arquitecturas serverless en AWS y GCP. Enfocado en DevOps: pipelines CI/CD con GitHub Actions, infraestructura como código (Serverless Framework, Terraform) y despliegue de servicios en la nube. En proceso de certificación cloud. Inglés B2 (en formación) · Disponible para trabajo híbrido o remoto.
 
 ---
 
 ## Experiencia Laboral
 
 **Analista Desarrollador (Full Stack Developer) — Konecta** `(Contrato indefinido)` *(Feb 2025 – Actualidad | Medellín)*
-`Node.js · TypeScript · React · PHP (Yii, Laravel) · AWS Lambda · S3 · API Gateway · CloudFront · WAF · Cognito · Secrets Manager · Serverless Framework · Keycloak · PostgreSQL · GitHub Actions · SonarQube`
+`Node.js · TypeScript · React · PHP (Yii, Laravel) · AWS Lambda · S3 · API Gateway · CloudFront · WAF · Cognito · Secrets Manager · Serverless Framework · Terraform · Keycloak · PostgreSQL · GitHub Actions · SonarQube`
 
-- Lideré de principio a fin el formulario web de proveedores Sodimac como Full Stack: frontend en S3 + CloudFront con CSP, backend en API Gateway + Lambda conectado a servicios on-premise; IaC con Serverless Framework. Redacté el manual técnico de arquitectura de ciberseguridad (HSTS, validación de headers).
+- Diseñé e implementé pipelines de CI/CD con GitHub Actions para despliegues Serverless: validaciones de seguridad, análisis SonarQube con reglas corporativas, pruebas automatizadas y deploy automático al push a main.
+- Definí y desplegué infraestructura como código con Serverless Framework (uso diario, serverless.yml) y Terraform en entornos de prueba; configuré conectividad segura Lambda–BD entre regiones con certificados TLS.
+- Lideré de principio a fin el formulario web de proveedores Sodimac como Full Stack: frontend en S3 + CloudFront con CSP, backend en API Gateway + Lambda conectado a servicios on-premise. Redacté el manual técnico de arquitectura de ciberseguridad (HSTS, validación de headers).
+- Implementé autenticación segura con AWS Cognito + Keycloak como IdP (SSO) y acceso seguro a BD desde Lambdas en el proyecto Composers.
 - Resolví issues y desarrollé nuevas funcionalidades en aplicativos legacy PHP (Yii, Laravel) con despliegue on-premise vía SFTP.
-- Diseñé pipelines de GitHub Actions para despliegues Serverless: validaciones de seguridad, análisis SonarQube con reglas corporativas, pruebas automatizadas y deploy automático al push a main.
-- Implementé autenticación segura con AWS Cognito + Keycloak como IdP (SSO), y conectividad segura Lambda–BD con certificados TLS en el proyecto Composers.
 - Investigué incidente IVR/KCRM (BBVA Empresas): análisis de logs, identificación de connId erróneo y su impacto en el cierre de fichas del sistema.
-- Apliqué Spec-Driven Development con Claude Code para detección de fallas, planificación y revisión antes de implementar; mantuve un fork propio de skills y optimicé consumo de tokens en automatizaciones.
 - Atendí incidencias diarias en entornos productivos y participé en guardias de 7 días con rotación operativa.
 
 **Full Stack Developer — Flowing Consultoría** *(Ene 2025 – Feb 2025 | Antioquia)* `(Contrato por proyecto)`
